@@ -1139,21 +1139,21 @@ margin-top: 30px;
 }
 
 section:nth-of-type(1) {
-    background-image: url("../img/imgReceitas/fundo1.jpg")
+    background-image: url("./img/imgReceitas/fundo1.jpg")
 }
 
 section:nth-of-type(3) {
-    background-image: url("../img/imgReceitas/bolo-laranja.jfif");
+    background-image: url("./img/imgReceitas/bolo-laranja.jfif");
 
 }
 section:nth-of-type(5) {
-    background-image: url("../img/imgReceitas/ratatouille-min.jpg");
+    background-image: url("./img/imgReceitas/ratatouille-min.jpg");
 
 }
 
 
 section:nth-of-type(7) {
-    background-image: url("../img/imgReceitas/suco\ verde.jpg");
+    background-image: url("./img/imgReceitas/suco\ verde.jpg");
 
 }
 
